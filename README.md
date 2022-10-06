@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Scott Jones @itspinky95 / @itspinky1995 
 - 👀 I’m interested in Coding, Gaming, Cars, Bikes and Airsoft
-- 🌱 I’m currently learning JavaScrip.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me, Instagram/Snapchat @itspinky1995 Discord itspinky95#1370 
